@@ -82,6 +82,9 @@ recognizes several strategies:
     You can change the default strategy in the
     :ref:`configuration <security-voters-change-strategy>`.
 
+.. seealso::
+    If none of the default strategies suit your needs. You can create your :ref:`own strategy <security-voters-custom-strategy>`
+
 Voters
 ------
 
